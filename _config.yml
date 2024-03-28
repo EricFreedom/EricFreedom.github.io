@@ -1,0 +1,10 @@
+# _config.yml
+
+# Site settings
+title: Your Website Title
+description: A brief description of your website
+url: https://your-username.github.io # Update with your GitHub Pages URL
+baseurl: "" # the subpath of your site, e.g. /blog, leave empty for root
+
+# Theme settings
+theme: jekyll-theme-slate
